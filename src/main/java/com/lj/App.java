@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Hello Man!" );
+        System.out.println( "This is the Auto Update file" );
     }
 }
